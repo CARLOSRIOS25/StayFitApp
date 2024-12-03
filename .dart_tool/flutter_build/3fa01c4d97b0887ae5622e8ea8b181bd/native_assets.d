@@ -1,0 +1,1 @@
+ C:\\Users\\EDGARDO\\Documents\\proyectoAplicacones\\AppFlutter-v2\ -\ Edgardo\\.dart_tool\\flutter_build\\3fa01c4d97b0887ae5622e8ea8b181bd\\native_assets.yaml: 

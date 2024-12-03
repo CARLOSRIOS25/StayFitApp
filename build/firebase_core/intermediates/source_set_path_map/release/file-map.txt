@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-0 C:\Users\carlo\.gradle\caches\transforms-3\0070cf36121aeeb4a714234b9f52d8b7\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-1 C:\Users\carlo\.gradle\caches\transforms-3\014cc38c8408df31dc73bb9bf5f51109\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.4.3-2 C:\Users\carlo\.gradle\caches\transforms-3\4bc247c029478a91fc089d3a3926bcc2\transformed\jetified-firebase-common-20.4.3\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.3.0-3 C:\Users\carlo\.gradle\caches\transforms-3\6a3f92dc5a9480e02eebc08e278beca3\transformed\jetified-play-services-basement-18.3.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-4 C:\Users\carlo\.gradle\caches\transforms-3\8483d258be040f0e5637047229a1798a\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-5 C:\Users\carlo\.gradle\caches\transforms-3\8999a62093f7e551ced3b07caff7e38a\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.core.firebase_core-main-6 C:\Users\carlo\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.30.0\android\src\main\res
+io.flutter.plugins.firebase.core.firebase_core-release-7 C:\Users\carlo\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.30.0\android\src\release\res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 C:\Users\carlo\Documents\AppFlutter-v3 Carlos\build\firebase_core\generated\res\pngs\release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 C:\Users\carlo\Documents\AppFlutter-v3 Carlos\build\firebase_core\generated\res\resValues\release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 C:\Users\carlo\Documents\AppFlutter-v3 Carlos\build\firebase_core\generated\res\rs\release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 C:\Users\carlo\Documents\AppFlutter-v3 Carlos\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 C:\Users\carlo\Documents\AppFlutter-v3 Carlos\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 C:\Users\carlo\Documents\AppFlutter-v3 Carlos\build\firebase_core\intermediates\merged_res\release
